@@ -1,0 +1,109 @@
+body{
+    /* text-align: right; */
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+.head{
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: space-between;
+    /* border: solid blue 5px; */
+}
+
+
+
+.menus{
+    display: flex;
+    justify-self: flex end;
+    /* border: solid blueviolet; */
+    /* background-color: black; */
+    /* font-size: 20px; */
+    /* font-family: fantasy; */
+    /* font-weight: 400; */
+    color: white; 
+}
+
+.menus a{
+    margin: 30px;
+}
+
+a:visited{
+    color: rgb(116, 2, 116);
+    background-color: #ffecd2;
+}
+
+a:link{
+    color: rgb(216, 55, 55);
+    background-color: yellow;
+}
+
+a:hover {
+    color: rgb(226, 43, 156);
+    text-decoration: underline;
+    background-color: lightgreen;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1{
+    font-family:fantasy;
+}
+
+.me{
+    text-align: right;
+}
+
+.left {
+    float: right;
+    padding: 0 20px 20px 0;
+    
+}
+
+h2{
+    border: blueviolet;
+}
+
+html{
+    border: solid rgb(226, 43, 156) 50px;
+}
+
+.College b{
+    color: rgb(255, 0, 0);
+    font-size: large;
+}
+
+.piano{
+    float:right
+}
+
+.cake{
+    float: left;
+}
+
+.cake2{
+    float: right;
+}
+
+.foot{
+    float: right;
+    /* text-align:right; */
+}
+
+.running{
+    float:left;
+}
+
+/* p{
+    text-shadow: -1px 2px rgba(128, 128, 128, 0.5);
+    background: -webkit-linear-gradient(rgba(245, 245, 245, 0), #1e2425);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    } */
+/* p{
+    /* font-size: 72px; */
+  /* background: -webkit-linear-gradient(rgb(238, 238, 238), rgb(51, 51, 51));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+/* } */ 
